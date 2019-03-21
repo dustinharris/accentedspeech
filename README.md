@@ -56,7 +56,7 @@ Source: [Alexa does not understand your accent](https://www.washingtonpost.com/g
 
 # MVP
 
-![System Architecture Diagram](https://github.com/dustinharris/pharmacy_counting/blob/master/img/sys-architecture.PNG)
+![System Architecture Diagram](https://github.com/dustinharris/accentedspeech/blob/master/img/sys-architecture.PNG)
 
 1. Stream data from input sources through Kafka
 2. Store raw input in S3
