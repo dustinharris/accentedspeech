@@ -32,12 +32,15 @@ Accented speech processing for machine learning models.
 Mozilla Common Voice Dataset
 * https://voice.mozilla.org/en/datasets
 * 22GB, 803 hours, 33, 541 voices
+
 English speech recognition training corpus from TED talks
 * http://www.openslr.org/7/
 * 21G, TED-LIU: Transcription of all ted talk audio
+
 Large-scale (1000 hours) corpus of read English speech 
 * www.openslr.org/12/
 * 60 GB, 1000 hours of speech based on read audiobooks
+
 Recordings of African Accented French speech
 * http://www.openslr.org/57/
 * 1.8 G, Recordings of African Accented French, 22 hours
