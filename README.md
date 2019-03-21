@@ -7,9 +7,10 @@ Accented speech processing for machine learning models.
 3. [Data Source](README.md#data-source)
 4. [Engineering Challenges](README.md#engineering-challenges)
 5. [Business Value](README.md#business-value)
-6. [MVP](README.md#mvp)
-7. [Stretch Goals](README.md#stretch-goals)
-8. [Contact](README.md#contact)
+6. [System Architecture](README.md#system-architecture)
+7. [MVP](README.md#mvp)
+8. [Stretch Goals](README.md#stretch-goals)
+9. [Contact](README.md#contact)
 
 # Project Idea
 
@@ -54,9 +55,11 @@ Recordings of African Accented French speech
 
 Source: [Alexa does not understand your accent](https://www.washingtonpost.com/graphics/2018/business/alexa-does-not-understand-your-accent/?noredirect=on&utm_term=.5982731d9770)
 
-# MVP
+# System Architecture
 
 ![System Architecture Diagram](https://github.com/dustinharris/accentedspeech/blob/master/img/sys-architecture.PNG)
+
+# MVP
 
 1. Stream data from input sources through Kafka
 2. Store raw input in S3
@@ -66,7 +69,8 @@ Source: [Alexa does not understand your accent](https://www.washingtonpost.com/g
 # Stretch Goals
 
 1. Mechanical turk integration
-2. User-submitted audio
+2. Structured dataset creation
+3. User-submitted audio
 
 # Contact
 Reach out to dustin.harris@outlook.com with any questions.
