@@ -16,7 +16,7 @@ class FileHandler:
 
         file_list = []
         for key in s3_result['Contents']:
-            file_list.append(key['Key'])
+            file_list.append("s3a://" + bucket_name + "/" + key['Key'])
         print("List count = " + str(len(file_list)))
 
         while s3_result['IsTruncated']:
