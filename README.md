@@ -14,7 +14,7 @@ View available speech data at <a href="http://listenup.site/">Listen Up</a>.
 
 # Data Pipeline
 
-![Alt text](./img/pipeline419.png "Listen Up data pipeline")
+![Listen Up data pipeline](./img/pipeline419.png)
 
 # Features
 
